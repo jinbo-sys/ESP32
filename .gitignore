@@ -55,6 +55,6 @@ dkms.conf
 .venv/
 __pycache__/
 # 个人隐私数据（自采集人像+标注），禁止上传
-0.2_train_pose/self_captured/
+0.2_train_head/self_captured/
 # 模型二进制（int8/keras），禁止上传
-0.2_train_pose/models/
+0.2_train_head/models/

@@ -58,3 +58,5 @@ __pycache__/
 0.2_train_head/self_captured/
 # 模型二进制（int8/keras），禁止上传
 0.2_train_head/models/
+# 项目同步配置文件，禁止上传
+git_sync_config.json
